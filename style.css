@@ -68,12 +68,12 @@ html {
   }
   
   .artikkel-wrap{
-    width: 90%;
+    width: 98%;
     margin: 0 auto;
   }
   
   a {
-    width: 94%;
+    width: 98%;
     max-width: 40rem;
     margin: 2rem auto;
     text-decoration: none;
@@ -81,12 +81,12 @@ html {
   }
   
   p {
-    width: 94%;
+    width: 98%;
     max-width: 40rem;
     margin: 1rem auto;
     font-size: 1.4rem;
     font-family: 'Barlow', sans-serif;
-    line-height: 1.5;
+    line-height: 1.6;
   }
   
   .flex-parent {
