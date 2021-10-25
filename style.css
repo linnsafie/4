@@ -24,8 +24,8 @@ html {
   /*Artikkel struktur*/
 
   header {
-    background-image: url(/images/#);
-    text-align: center;
+    background-image: url(./images/henriette-1.jpg);
+    text-align: right;
       padding: 25rem 0rem ;
       margin-bottom: 10rem;
       background-position: center center;
@@ -40,11 +40,21 @@ html {
     position: relative;
   }
   h1 {
-    text-align: center;
+    text-align: right;
     font-size: 12vh;
     margin-top: -100px;
+    padding: 20px;
+    font-family: 'Lato', cursive;
+    color: #db8d4d;
+  }
+  .klementittel {
+    text-align: right;
+    font-size: 12vh;
+    margin-top: -80px;
+    padding: 20px;
     font-family: 'Lato', cursive;
     color: #e99047;
+    text-shadow: #222222;
   }
   h2 {
     width: 94%;
@@ -114,3 +124,5 @@ html {
     font-size: 0.8rem;
     display: block;
   }
+
+  
